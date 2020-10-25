@@ -1,0 +1,103 @@
+.table1 {
+    margin: auto;
+    padding: 10px;
+    width: 300px;
+    background: lightgray;
+}
+
+.table2 {
+    margin: auto;
+    width: 500px;
+    padding: 20px;
+}
+
+.form3 {
+    margin: auto;
+    width: 500px;
+    border: 1px solid black;
+}
+
+.form3 form {
+    padding: 5px;
+}
+
+.form3Blo1 {
+    padding: 3px;
+    border-right: 1px solid #B2BBC0;
+    display: inline-block;
+}
+
+.form3Blo2 {
+    text-align: center;
+    padding: 5px;
+    position: absolute;
+    display: inline-block;
+}
+
+.form3Blo2 p a {
+    padding: 5px 30px 5px 30px;
+    border-radius: 5px;
+}
+
+.form3Blo2 p .gog{
+    background: url("icons8-google-16.png") no-repeat left #E7E5DD;
+}
+
+.form3Blo2 p .fec{
+    background: url("icons8-facebook-16.png") no-repeat left #E7E5DD;
+}
+
+.form3Blo1 input {
+    height: 30px;
+    width: 300px;
+}
+
+.form3Blo1 .sP {
+    background: url(61542.svg) no-repeat right;
+    background-size: 25px;
+}
+
+.form3Blo1 button {
+    background: green;
+    height: 30px;
+    width: 300px;
+}
+
+.form3Blo button {
+    background: green;
+    height: 30px;
+    width: 300px;
+}
+
+.form3Blo .form4Blo1{
+    height: 30px;
+    width: 300px;
+    margin-right: 10px;
+}
+
+.form3Blo {
+    border-right: 1px solid #B2BBC0;
+    display: inline-block;
+}
+
+.form4 {
+    margin: auto;
+    width: 500px;
+    border: 1px solid black;
+}
+
+.form4 form {
+    padding: 5px;
+}
+
+.form4 .form3Blo .lf {
+    padding-left: 30px;
+}
+
+.po {
+    padding-left: 75px;
+}
+
+.po1 {
+    padding-left: 95px;
+}
